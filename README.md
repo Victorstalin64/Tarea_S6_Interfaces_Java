@@ -36,7 +36,7 @@ Para garantizar un código profesional y escalable, se aplicaron los siguientes 
 **Video Explicativo (Ejercicio 3)**
 El video detalla la problemática del sistema de roles, el diseño del modelo, el uso de polimorfismo y la ejecución del menú principal.
 
-## 🏗️ Estructura de Paquetes
+**Estructura de Paquetes**
 ```text
 src/
  ├── SistemaAcademicoDeDocumentos/
